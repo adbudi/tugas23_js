@@ -1,1 +1,3 @@
-# tugas23_js
+# Tugas Fungsi Array Filter
+ 
+![tugas 23](tgs.png)
